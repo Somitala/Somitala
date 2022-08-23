@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Somayyeh Golalizadeh, PHD in mathematics, Graph and combinatorics. [Somayyeh Golalizadeh-resume1234567.pdf](https://github.com/Somitala/Somitala/files/9402589/Somayyeh.Golalizadeh-resume1234567.pdf)
+- 👋 Hi, I’m Somayyeh Golalizadeh, PHD in mathematics, Graphs and Combinatorics. [Somayyeh Golalizadeh-resume1234567.pdf](https://github.com/Somitala/Somitala/files/9402589/Somayyeh.Golalizadeh-resume1234567.pdf)
 
 - 👀 I’m interested in machine learning and deep learning field to do project and research.
 - 🌱 I’m currently learning machine and deep learning.
